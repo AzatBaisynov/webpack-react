@@ -1,0 +1,41 @@
+/* stylelint-disable */
+@keyframes ldio-a05lxf4wz3b {
+  0% { transform: translate(-50%,-50%) rotate(0deg); }
+  100% { transform: translate(-50%,-50%) rotate(360deg); }
+}
+
+.ldio-a05lxf4wz3b div {
+  position: absolute;
+  width: 120px;
+  height: 120px;
+  border: 20px solid var(--inverted-bg-color);
+  border-top-color: transparent;
+  border-radius: 50%;
+}
+
+.ldio-a05lxf4wz3b div {
+  animation: ldio-a05lxf4wz3b 1s linear infinite;
+  top: 100px;
+  left: 100px
+}
+
+.loadingio-spinner-rolling-yk5w5sbfmyl {
+  width: 200px;
+  height: 200px;
+  display: inline-block;
+  overflow: hidden;
+  background: none;
+}
+
+.ldio-a05lxf4wz3b {
+  width: 100%;
+  height: 100%;
+  position: relative;
+  transform: translateZ(0) scale(1);
+  backface-visibility: hidden;
+  transform-origin: 0 0; /* see note above */
+}
+
+.ldio-a05lxf4wz3b div { 
+	box-sizing: content-box; 
+}
